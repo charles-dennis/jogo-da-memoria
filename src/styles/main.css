@@ -59,8 +59,7 @@ h2{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #fff;
-   
+    background-color: #fff;   
     font-size: 3em;
     transform: rotateY(180deg);
     transition: 0.25s;
@@ -70,8 +69,7 @@ h2{
     content: "";
     position: absolute;
     inset: 0;
-    background: #404040;
-    opacity: 0.85;
+    background: #404040;    
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
